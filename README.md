@@ -48,7 +48,9 @@ https://croprecommendationsystem-dg9b99prhz6tgj2so7aaxt.streamlit.app/
 
 ## 📷 Project Screenshot
 
-(Add screenshot here later)
+<img width="1918" height="852" alt="image" src="https://github.com/user-attachments/assets/76f6f673-397f-47c2-b56b-85804f48fb2f" />
+
+
 
 ---
 
